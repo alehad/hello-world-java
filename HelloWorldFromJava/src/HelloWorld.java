@@ -5,6 +5,9 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("Hello Again!");
+		
+		ConsolePrinter cp = new ConsolePrinter();
+		cp.print("Yo yo yo!");
 	}
 
 }
